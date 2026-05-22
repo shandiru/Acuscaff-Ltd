@@ -21,7 +21,7 @@ export const siteConfig = {
     },
     media: {
       type: "video",
-      src: "/back.mp4",
+      src: "/hero.mp4",
       poster: "/Empire.jpg",
       image: "/Empire.jpg",
       alt: "Background",
